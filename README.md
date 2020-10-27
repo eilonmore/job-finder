@@ -2,7 +2,7 @@
 A NodeJS LinkedIn bot that connects to people and send messages automatically. 
 
 This bot uses [NodeJS LinkedIn Private API Package.](https://github.com/eilonmore/linkedin-private-api)  
-You can read [my medium blog post](https://medium.com/@eilonmor1) that describes how I built this bot.
+You can read [my medium blog post](https://codeburst.io/how-i-nailed-a-job-with-this-nodejs-linkedin-bot-6fcada2afbe1) that describes how I built this bot.
 
 ## Disclaimer
 The code in this repository uses the LinkedIn unofficial API.
