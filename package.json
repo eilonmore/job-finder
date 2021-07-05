@@ -9,6 +9,6 @@
   "author": "Eilon Mor",
   "license": "MIT",
   "dependencies": {
-    "linkedin-private-api": "^1.0.4"
+    "linkedin-private-api": "^1.0.5"
   }
 }
