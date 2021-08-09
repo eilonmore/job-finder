@@ -20,9 +20,9 @@ fs@^0.0.1-security:
   version "0.0.1-security"
   resolved "https://registry.yarnpkg.com/fs/-/fs-0.0.1-security.tgz#8a7bd37186b6dddf3813f23858b57ecaaf5e41d4"
 
-linkedin-private-api@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/linkedin-private-api/-/linkedin-private-api-1.0.5.tgz#63bc760289acd584d69c463bc1019c3356f1f7ee"
+linkedin-private-api@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/linkedin-private-api/-/linkedin-private-api-1.1.1.tgz#ad59ce2ebf3a40e8351fc7138c2500da6e0ca9b2"
   dependencies:
     axios "^0.21.0"
     cookie "^0.4.0"
