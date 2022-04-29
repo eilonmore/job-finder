@@ -8,9 +8,9 @@ axios@^0.21.0:
   dependencies:
     follow-redirects "^1.10.0"
 
-cookie@^0.4.0:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.4.1.tgz#afd713fe26ebd21ba95ceb61f9a8116e50a537d1"
+cookie@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.5.0.tgz#d1f5d71adec6558c58f389987c366aa47e994f8b"
 
 follow-redirects@^1.10.0:
   version "1.14.1"
@@ -20,12 +20,12 @@ fs@^0.0.1-security:
   version "0.0.1-security"
   resolved "https://registry.yarnpkg.com/fs/-/fs-0.0.1-security.tgz#8a7bd37186b6dddf3813f23858b57ecaaf5e41d4"
 
-linkedin-private-api@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/linkedin-private-api/-/linkedin-private-api-1.0.5.tgz#63bc760289acd584d69c463bc1019c3356f1f7ee"
+linkedin-private-api@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/linkedin-private-api/-/linkedin-private-api-1.1.2.tgz#8f0ce13730990789f1c2103a28b369faebdd6f13"
   dependencies:
     axios "^0.21.0"
-    cookie "^0.4.0"
+    cookie "^0.5.0"
     fs "^0.0.1-security"
     lodash "^4.17.15"
     querystring "^0.2.0"
